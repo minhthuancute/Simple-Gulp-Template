@@ -1,7 +1,7 @@
-# Simple-Gulp-Template
+# Simple-Gulp-Template - Thuancutee
 
 # Setup Template
-1: git checkout master
-2: npm init
-3: npm i --global gulp-cli
-4: gulp serve
+# 1: git checkout master
+# 2: npm init
+# 3: npm i --global gulp-cli
+# 4: gulp serve
